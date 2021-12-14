@@ -5,11 +5,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=blockchain%20developer;7+%2B%20years%20of%20coding%20experience;Being%20passionate%20and%20creative&center=true&width=380&height=45"></a>
 </p>
 <h3> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Nice to meet you.</h3>
-<p>An enthusiastic and challenge-driven developer with 7+ years of experience in specializing in full-stack web and blockchain.</p>
+<p>Blockchain & Web developer with more than 7+ years of development experience</p>
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saint-prince&label=Profile%20views&color=0e75b6&style=flat" alt="saint-prince" /> </p>
+
 
 
 <h2>Skills & Status</h2>
