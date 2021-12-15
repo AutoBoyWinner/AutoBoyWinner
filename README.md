@@ -20,9 +20,7 @@
 <h2>Skills & Status</h2>
 
 
-<p align="right">
-  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=AutoBoyWinner&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
-</p>
+
 <table><tr><td valign="top" width="100%">
 <div>  
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=plastic&logo=bitcoin&logoColor=white" />
@@ -67,6 +65,11 @@
     <img alt="Gitlab" src="https://img.shields.io/badge/GitLab-FCA121?style=plastic&logo=gitlab" />
     <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github" />
     <img alt="Github actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" />  
+</div>
+<div>
+    <p align="right">
+  <img alt="status" src="https://github-readme-stats.vercel.app/api?username=AutoBoyWinner&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
+    </p>
 </div>
 </td></tr></table>
 <div align="center">
