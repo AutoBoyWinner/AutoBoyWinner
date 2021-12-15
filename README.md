@@ -130,8 +130,14 @@
     <img alt="Github actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" />
   </a>
 </div>
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AutoBoyWinner&show_icons=true&locale=en&layout=compact" alt="AutoBoyWinner" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AutoBoyWinner&" alt="AutoBoyWinner" /></p>
-</div>
+<div align="center">
+    
+### GitHub Contributions
+    
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=AutoBoyWinner)
+
+### Most Used Langauges    
+    
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AutoBoyWinner&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
+</div
 
