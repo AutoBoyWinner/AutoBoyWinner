@@ -13,17 +13,18 @@
 <p>Blockchain & Web developer with 7+ years of development experience</p>
 
 <br/>
-<table>
-    <tr>
-        <td>
-            <img alt="status" src="https://github-readme-stats.vercel.app/api?username=AutoBoyWinner&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
-        </td>
-        <td>
-            <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AutoBoyWinner&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
-        </td>
-    </tr>
-</table>
-
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <img alt="status" src="https://github-readme-stats.vercel.app/api?username=AutoBoyWinner&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
+            </td>
+            <td>
+                <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AutoBoyWinner&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="196px">
+            </td>
+        </tr>
+    </table>
+</div>
 <div align="center">
     
 ### GitHub Contributions
