@@ -10,7 +10,7 @@
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://discord.gg/SsVNVZ4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/discord.svg" alt="SsVNVZ4g" height="30" width="40" /></a>
+  <a href="https://discord.gg/SsVNVZ4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/discord.svg" alt="X9brVKSf" height="30" width="40" /></a>
   <a href="https://join.skype.com/invite/DQgARFISAxyD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-    generator/master/src/images/icons/Social/skype.svg" alt="auto boy" height="30" width="40" /></a>
   <a href="https://discord.gg/TEukb62CMM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="X9brVKSf" height="30" width="40" /></a>
 </p>
