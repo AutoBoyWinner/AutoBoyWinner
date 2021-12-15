@@ -23,16 +23,13 @@
 <p align="right">
   <img alt="status" src="https://github-readme-stats.vercel.app/api?username=AutoBoyWinner&show_icons=true&&custom_title=Current%20Status&title_color=baf14f&text_color=76d285&icon_color=cff389&theme=dark" align="right" />
 </p>
-
-
-<div>
-  
+<table><tr><td valign="top" width="100%">
+<div>  
     <img alt="Bitcoin" src="https://img.shields.io/badge/Bitcoin-ab790d?style=plastic&logo=bitcoin&logoColor=white" />
     <img alt="Bitcoin" src="https://img.shields.io/badge/Ethereum-442288?style=plastic&logo=ethereum&logoColor=white" />
     <img alt="Solidity" src="https://img.shields.io/badge/Solidity-blue?style=plastic&logo=solidity&logoColor=white" />
     <img alt="Solidity" src="https://img.shields.io/badge/Rust-443330?style=plastic&logo=rust&logoColor=white" />
-    <img alt="Solidity" src="https://img.shields.io/badge/Web3.js-11aa33?style=plastic&logo=web3.js&logoColor=white" />
-  </a>
+    <img alt="Solidity" src="https://img.shields.io/badge/Web3.js-11aa33?style=plastic&logo=web3.js&logoColor=white" /> 
 </div>
 <div>
     <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white" />
@@ -42,15 +39,14 @@
     <img alt="Redux" src="https://img.shields.io/badge/-express-inactive?style=plastic&logo=express&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&logo=angular&logoColor=white" />
     <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=plastic&logo=vue.js&logoColor=4FC08D" />
-  </a>
+ 
 </div>
 <div>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=plastic&logo=Node.js&logoColor=white" />
     <img alt="Php" src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=plastic&logo=python&logoColor=white" />
     <img alt="C#" src="https://img.shields.io/badge/C%23-23DAFB?style=plastic&logo=c-sharp&logoColor=white" />
-    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" />
-  </a>
+    <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=plastic&logo=laravel&logoColor=white" /> 
 </div>
 <div>
     <img alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=plastic&logo=css3&logoColor=white" />
@@ -72,6 +68,7 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github" />
     <img alt="Github actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=plastic&logo=github-actions&logoColor=white" />  
 </div>
+</td></tr></table>
 <div align="center">
     
 ### GitHub Contributions
