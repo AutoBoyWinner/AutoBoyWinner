@@ -1,7 +1,7 @@
 <h1 align="center"></h1>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AutobBoyWinner.AutobBoyWinner" />
 
-<img align="right" src="https://img.shields.io/github/followers/AutobBoyWinner?label=Follow&style=social" />
+<img align="right" src="https://img.shields.io/github/followers/autoboywinner?label=Follow&style=social" />
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=AutobBoyWinner&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
