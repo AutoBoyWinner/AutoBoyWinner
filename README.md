@@ -6,6 +6,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=autoboywinner&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 <br/>
+<br/>
 
 <h1 align="center">
   Blockchain & Web Developer</h1>
