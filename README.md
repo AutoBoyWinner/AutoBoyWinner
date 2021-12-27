@@ -3,7 +3,7 @@
 
 <img align="right" src="https://img.shields.io/github/followers/autoboywinner?label=Follow&style=social" />
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=AutobBoyWinner&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=autoboywinner&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 <br/>
 
