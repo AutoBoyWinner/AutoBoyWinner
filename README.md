@@ -1,5 +1,4 @@
 <h1 align="center"></h1>
-<p>skype : https://join.skype.com/invite/DQgARFISAxyD</p>
 <p>discord : autoboy#7027</p>
 <p>telegram : @autoboy7027</p>
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=AutobBoyWinner.AutobBoyWinner" />
